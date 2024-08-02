@@ -1,0 +1,38 @@
+
+public class TiposVariaveis {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Variaveis tipo inteiro
+		/*int variavel, variavel2;
+		
+		variavel = 1;
+		
+		System.out.println("Variavel tipo inteiro: " + variavel);
+		
+		variavel = Integer.MAX_VALUE;
+		variavel2 = Integer.MIN_VALUE;
+		
+		System.out.println("Tamanho maximo de variavel tipo inteiro: " + variavel);
+		System.out.println("Tamanho minimo de variavel tipo inteiro: " + variavel2);
+		
+		variavel = 2147483647;
+		variavel2 = -2147483648;
+		*/
+		
+		//Variavel tipo caractere
+		
+		char caractere = 'A';
+		
+		System.out.println("Variavel tipo caractere: " + caractere);
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

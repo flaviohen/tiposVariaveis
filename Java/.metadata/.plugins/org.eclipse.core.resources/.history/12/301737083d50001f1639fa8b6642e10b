@@ -1,0 +1,80 @@
+import java.math.*;
+public class TiposVariaveis {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		//Variaveis tipo inteiro
+		/*int variavel, variavel2;
+		
+		variavel = 1;
+		
+		System.out.println("Variavel tipo inteiro: " + variavel);
+		
+		variavel = Integer.MAX_VALUE;
+		variavel2 = Integer.MIN_VALUE;
+		
+		System.out.println("Tamanho maximo de variavel tipo inteiro: " + variavel);
+		System.out.println("Tamanho minimo de variavel tipo inteiro: " + variavel2);
+		
+		variavel = 2147483647;
+		variavel2 = -2147483648;
+		*/
+		
+		//Variavel tipo caractere
+		
+		/*char caractere = 'A';
+		
+		System.out.println("Variavel tipo caractere: " + caractere);
+		
+		caractere = 'B';
+		*/
+		
+		//Variavel tipo cadeia de caractere ou texto
+		
+		/*String cadeiaCaractere = new String();
+		
+		cadeiaCaractere = "Texto com mais de uma letra ou numero 1234";
+		
+		System.out.println("Variavel tipo cadeia de caractere: " + cadeiaCaractere);
+		
+		cadeiaCaractere = "1.5";
+		
+		System.out.println(cadeiaCaractere);
+		*/
+		
+		//Tipo de variavel de ponto flutuante
+		
+		float variavel = 1.5f;
+		float variavel2;
+		
+		System.out.println("Variavel tipo ponto flutuante: " + variavel);
+		
+		variavel = Float.MAX_VALUE;
+		variavel2 = Float.MIN_VALUE;
+		
+		BigDecimal max = new BigDecimal(variavel);
+		BigDecimal min = new BigDecimal(variavel2);
+		
+		System.out.println(variavel);
+		System.out.println(variavel2);
+		
+		System.out.println("Tamanho maximo de variavel tipo float: " + max.toPlainString());
+		System.out.println("Tamanho minimo de variavel tipo float: " + min.toPlainString());
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}
