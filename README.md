@@ -9,17 +9,17 @@ Linguagem C++ - DEV C++ Embarcadero
 
 #  Tipos de dados na programação
   
-1.	Inteiro é numérico em programação pode ser int, integer - [Video C#](https://youtu.be/0cBbAz_Deio) 
+1.	Inteiro é numérico em programação pode ser int, integer - [Video C#](https://youtu.be/0cBbAz_Deio), [Video Java](https://youtu.be/_srezh6crRg)
    
-2.	Caractere é um só item em programação é char - [Video C#](https://youtu.be/QpLKGCnNweM)
+2.	Caractere é um só item em programação é char - [Video C#](https://youtu.be/QpLKGCnNweM), [Video Java](https://youtu.be/ne0QjeF7pfQ)
    
-3.	Cadeia de Caractere ou Texto em programação é String - [Video C#](https://youtu.be/UAjuE1I2UX4)
+3.	Cadeia de Caractere ou Texto em programação é String - [Video C#](https://youtu.be/UAjuE1I2UX4), [Video Java](https://youtu.be/8HCJi5qjfSE)
    
-4.	Ponto Flutuante ou Real é número que pode ou não ser redondo em programação tem float, double e decimal - [Video C#](https://youtu.be/rSzo-2TI7eM)
+4.	Ponto Flutuante ou Real é número que pode ou não ser redondo em programação tem float, double e decimal - [Video C#](https://youtu.be/rSzo-2TI7eM), [Video Java](https://youtu.be/RvipAlp5ZKk)
     
-5.	Data – em programação pode ser date, datetime - [Video C#](https://youtu.be/t26xEw-bF7g)
+5.	Data – em programação pode ser date, datetime - [Video C#](https://youtu.be/t26xEw-bF7g), [Video Java](https://youtu.be/iPdm5p9Qf1U)
     
-6.	Verdadeiro ou Falso – em programação Bolean - [Video C#](https://youtu.be/rNZQOnyCYjY)
+6.	Verdadeiro ou Falso – em programação Bolean - [Video C#](https://youtu.be/rNZQOnyCYjY), [Video Java](https://youtu.be/VTbqTFrrXi4)
     
 # Tipos de dados em banco de dados
 
